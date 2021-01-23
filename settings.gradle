@@ -1,0 +1,3 @@
+include ':SmartMediaPicker'
+include ':sample'
+rootProject.name = "SmartMediaPicker"
