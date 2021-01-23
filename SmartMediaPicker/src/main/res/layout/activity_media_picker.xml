@@ -20,7 +20,7 @@
         android:orientation="vertical"
         app:layout_constraintGuide_percent="0.3"
         />
-    
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvMedia"
         android:layout_width="0dp"
